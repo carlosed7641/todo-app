@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import { Todo } from './todo/Todo';
 import './App.css'
 
